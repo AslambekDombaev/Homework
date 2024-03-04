@@ -1,0 +1,14 @@
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\bin\Debug\net7.0\Sortir.exe
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\bin\Debug\net7.0\Sortir.deps.json
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\bin\Debug\net7.0\Sortir.runtimeconfig.json
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\bin\Debug\net7.0\Sortir.dll
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\bin\Debug\net7.0\Sortir.pdb
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\Sortir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\Sortir.AssemblyInfoInputs.cache
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\Sortir.AssemblyInfo.cs
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\Sortir.csproj.CoreCompileInputs.cache
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\Sortir.dll
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\refint\Sortir.dll
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\Sortir.pdb
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\Sortir.genruntimeconfig.cache
+C:\Users\adombaev\Desktop\Учеба\семинары\Sortir\obj\Debug\net7.0\ref\Sortir.dll
