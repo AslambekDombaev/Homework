@@ -8,11 +8,11 @@ void WriteConsonants (string n)
         return;
     }
     string vowels = "euioaEUIOA";
-    if (!vowels.Contains(n[0]))
+    if (!vowels.Contains(n[0])) // ! отрицание, Contains - это проверка на наличие
     {
         Console.Write(n[0]);
     }
-    WriteConsonants(n[1..]);
+    WriteConsonants(n[1..]); // это срез одного элемента слева
 }
 
 string n = Console.ReadLine()!;
