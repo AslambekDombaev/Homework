@@ -29,7 +29,7 @@ WriteConsonants(n);
 //     {
 //         Console.Write(n[i]);
 //     }
-//     WriteConsonants(n.Substring(i+1,n.Length-1));
+//     WriteConsonants(n.Substring(i+1,n.Length-1)); Substring - делает новую строку по указанию индексов
 // }
 
 // string n = Console.ReadLine()!;
